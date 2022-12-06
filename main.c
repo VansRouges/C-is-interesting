@@ -5,7 +5,7 @@ int main()
 {
     const char NAME[] = "Vance";
     const int age = 22;
-    char person[30], course[20];
+    char person[30], course[30];
    
     int personAge;
     double gpa;
